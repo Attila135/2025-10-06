@@ -1,0 +1,14 @@
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: red;
+}
+
+.container {
+    width: 600px;
+    background-color: lightblue;
+    margin: auto;
+    padding: 20px;
+}
