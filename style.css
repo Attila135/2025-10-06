@@ -1,14 +1,24 @@
+body {
+    background-color: #eeeeee;
+}
+
 h1 {
     color: darkgreen;
 }
 
 p {
-    color: red;
+    color: #333333;
+}
+
+img {
+    width: 550px;
 }
 
 .container {
     width: 600px;
-    background-color: lightblue;
-    margin: auto;
+    background-color: #dddddd;
     padding: 20px;
+    border: 2px solid #666666;
+    border-radius: 10px;
+    margin: 30px auto;
 }
